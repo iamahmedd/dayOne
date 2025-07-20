@@ -1,0 +1,128 @@
+header {
+    background-color: white;
+    padding: 5%;
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+
+}
+
+
+
+.bot button {
+    background-color: rgb(165, 223, 39);
+    color: black;
+    border: none;
+    padding: 10px 30px;
+    margin: 40px 20px;
+    border-radius: 8px;
+    font-weight: 100;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#btn {
+    font-family: sans-serif;
+
+}
+
+body {
+    background-color: #393939;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+.heroSec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #393939;
+    height: 400px
+}
+
+h1 {
+    font-size: 70px;
+    font-family: fantasy;
+    font-weight: normal;
+    color: white;
+    margin: 10px;
+}
+
+p {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: rgba(255, 255, 255, 0.381);
+}
+
+#join {
+    background-color: rgb(165, 223, 39);
+    color: black;
+    border: none;
+    padding: 10px 30px;
+    margin: 30px 20px;
+    border-radius: 8px;
+    font-weight: 100;
+    font-size: 16px;
+    cursor: pointer;
+    font-style: normal;
+    font-family: sans-serif;
+
+}
+
+#T {
+    color: rgb(218, 253, 42);
+}
+
+#tech {
+    color: rgb(31, 31, 31);
+}
+
+.sqrs {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.sqr {
+    margin: 20px;
+    background-color: #333333;
+    border-radius: 15px;
+    height: 350px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer
+}
+
+footer {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: none;
+}
+
+#endbtn {
+    background-color: rgb(204, 205, 203);
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    margin-left: 10px;
+    border-radius: 8px;
+    font-weight: normal;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#end {
+    color: #000;
+    font-family: sans-serif;
+}
